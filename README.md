@@ -3,6 +3,8 @@ coding by huangxinyu
 
 基本的yolov3代码，带有我编码时写的详细注释，适合初学者学习。
 
+另外在我的博客有对yolov3的解读：http://dayefuzi.cn/post/68
+
 训练：
 
 1.将格式化的数据集放在data文件夹下，images里放图像，annotations/annotations.txt存放图像名和box的坐标和类别
